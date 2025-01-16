@@ -1,1 +1,3 @@
-# CV1
+# LAB1 COMPUTER VISION AND VIDEO ANALYTICS
+Image Transformation involves the transformation of image data in order to retrieve information from the image or preprocess the image for further usage. 
+OpenCV: OpenCV (Open Source Computer Vision Library) is an open-source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in commercial products.  By using it, one can process images and videos to identify objects, faces, handwriting of a human etc. When it is integrated with various libraries, such as NumPy, Python is capable of processing the OpenCV array structure for analysis.
